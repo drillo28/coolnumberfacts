@@ -7,7 +7,7 @@ URL = 'http://numbersapi.com/'
 
 @app.route('/', methods=['GET'])
 def home():
-    return "hello from prafful"
+    return "Hellp From the other sideeeee..."
 
 @app.route('/', methods=['POST'])
 def post():
